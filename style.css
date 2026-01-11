@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+
+}
+
+
+#box{
+    height: 400px;
+    width: 400px;
+    border :1px solid white;
+/*    linear  gradinet use of oklab , hsn , and oklch 
+
+
+background: linear-gradient(
+  to right in oklch,
+  oklch(53.789% 0.27517 303.756),
+  oklch(50.923% 0.22379 324.227),
+  oklch(0.6 0.30 330)
+); */    
+             /* radial gradient    
+ /* background: radial-gradient(10px, green ,rgba(228, 65, 15, 0.779));
+ /* background: radial-gradient(
+  circle at center,
+  300px
+  #241702ba,
+  #e7dcc8
+);
+
+/*                      radial gradient    agr mhe div m idh rudhr krna h to 
+
+
+background: radial-gradient( */
+/*               
+
+
+
+  300px at 100px 100px,
+  #241702ba,
+  #e7dcc8
+); */ 
+
+}
